@@ -45,6 +45,7 @@ bash
 Copy
 Edit
 pyinstaller --onefile --noconsole your_script.py
+
 🧙 Author
 Made by Ludwind Rotstein
 
